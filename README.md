@@ -5,7 +5,9 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-0f172a)](https://github.com/pr3nc2/kontopress/releases)
 [![License](https://img.shields.io/badge/license-MIT-0f172a)](LICENSE)
 
-Kontopress is a modern, browser-based image compression tool built with TypeScript and Vite. Everything happens locally inside your browser — no uploads, no cloud processing, no accounts, no tracking.
+Kontopress is a modern, browser-based image compression tool built with TypeScript and Vite. Everything happens locally inside your browser — no uploads, no cloud processing, no accounts, no tracking.\
+
+https://usekontopress.netlify.app/
 
 ## Philosophy
 
